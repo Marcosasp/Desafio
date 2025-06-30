@@ -19,7 +19,6 @@ Literalura consiste em uma aplicação para a construção de um catálogo de li
 
 A interação é feita inteiramente via linha de comando. Esta aplicação permite buscar seus livros favoritos na API Gutendex e registrar os dados obtidos, incluindo dados referentes aos autores, no banco de dados da Literalura. Além disso, é possível listar todos os livros e autores registrados, bem como filtrar os livros por idioma e listar apenas os autores vivos em um determinado ano. 
 
-![Imgur](https://i.imgur.com/9QMgZcH.png)
 
 <a href="#--literalura">Voltar ao topo</a>
 
@@ -36,7 +35,7 @@ A interação é feita inteiramente via linha de comando. Esta aplicação permi
 
 ## Tecnologias Utilizadas 
 
-- Java 21
+- Java
 - Spring Boot
 - Hibernate
 - PostgreSQL
