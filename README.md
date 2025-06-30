@@ -1,5 +1,3 @@
-![Imgur](https://i.imgur.com/s7BLsQO.png)
-
 <h1 align = "center">
   Literalura
 </h1>
@@ -130,4 +128,4 @@ Se deseja contribuir para o projeto, siga os passos abaixo:
 
 ## Contato
 
-Caso tenha alguma dúvida ou sugestão, entre em contato pelo email karlasilvaeng@gmail.com.
+Caso tenha alguma dúvida ou sugestão, entre em contato pelo email marcos.cruzeiro17@hotmail.com
